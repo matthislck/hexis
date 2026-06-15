@@ -1,0 +1,9 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sse-starlette>=2.1
+aiofiles>=24.1
+notion-client>=2.2
+anthropic>=0.28
+openai>=1.30
+google-genai>=1.0
+send2trash>=1.8
